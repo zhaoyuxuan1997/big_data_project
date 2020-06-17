@@ -1,6 +1,7 @@
 # 大数据分析与内存计算课程大作业
 
 **总体架构**
+爬虫从丁香园上面 https://ncov.dxy.cn/ncovh5/view/pneumonia 爬数据
 
 MongoDB集群存从丁香园covid上面爬到的area，news，rumors三个collection。
 
